@@ -26,7 +26,7 @@ Here you can find the work I did during the 42 School Piscine.
 
 Copyright (C) 2026 Alessio Severi
 
-The source code contained in this repository was written by me, unless otherwise specified.
+The source code contained in this repository was written by me.
 Any official 42 materials, subjects, or reference resources remain the property of their respective authors/owners.
 
 This source code is distributed under the GNU General Public License v3.0.
